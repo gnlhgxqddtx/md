@@ -1,7 +1,7 @@
-#Daily Learning
+# Daily Learning
 
-##Morning Planning
+## Morning Planning
 
-##Review
+## Review
 
 I wonder if there is a Chinese version...
